@@ -1,0 +1,8 @@
+git config --list
+git config --global user.name "Adam Pietras"
+git config --global user.email adam@crafter.net.pl
+git config --global core.editor nano
+git config --global core.autocrlf input/true
+git config --global merge.tool vimdiff
+git config --global color.ui auto
+git config --global help.autocorrect 1
